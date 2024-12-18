@@ -9,6 +9,8 @@
 // @match        https://*.dewu.com/*
 // @grant        none
 // @grant        GM_download
+// @downloadURL https://raw.githubusercontent.com/RunChen99/Tampermonkey-dewu-imgdownload/refs/heads/main/%E5%BE%97%E7%89%A9%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD.js?token=GHSAT0AAAAAAC3PY526EPQSNZ737L3C2SNCZ3C6TEQ
+// @updateURL https://raw.githubusercontent.com/RunChen99/Tampermonkey-dewu-imgdownload/refs/heads/main/%E5%BE%97%E7%89%A9%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD.js?token=GHSAT0AAAAAAC3PY526EPQSNZ737L3C2SNCZ3C6TEQ
 // ==/UserScript==
 
 (function() {
