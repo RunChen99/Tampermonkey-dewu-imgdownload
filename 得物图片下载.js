@@ -2,7 +2,7 @@
 // @name         得物图片下载工具
 // @namespace    http://tampermonkey.net/
 // @icon         https://www.dewu.com/static/favicon.ico
-// @version      1.0.0
+// @version      1.0.1
 // @description  得物图片下载工具
 // @author       RunChen
 // @match        https://www.dewu.com/*
